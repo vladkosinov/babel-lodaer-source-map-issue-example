@@ -1,0 +1,1 @@
+module.exports = 'module2/another-file-name.js';
